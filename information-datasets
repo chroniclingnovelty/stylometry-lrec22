@@ -1,0 +1,127 @@
+Information about the datasets 
+
+========
+Datasets
+========
+
+Chronicle Data Set 1 (Chr-1)	
+Chronicle Data Set 2 (Chr-2)	
+Historical Source Data Set (source-hist)	
+Contemporary Source Data Set (source-cont)	
+Author Data Set (author-intros)	
+
+===============================
+Chronicle Data Set 1 (Chr-1)
+===============================
+
+Text fragments from the first section of the chronicle which focuses on the history of Purmerend and the surrounding area. Fragments of text which are found between inverted commas in the original manuscript are referred to as 'copy' fragments and fragments of text which are outside of inverted commas in the original manuscript are referred to as 'no-copy' fragments. The copied fragments are mostly copied from 17th and 18th century history books.
+
+Scans of the chronicle can be found at the website of the Noord-Hollands archief in Haarlem: https://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&mizig=210&miadt=236&micode=143&milang=nl&mizk_alle=louwen&miview=inv2
+
+This section of the chronicle consists of the first two volumes:
+Albert Pietersz. Louwen, Kronijk Der Stad Purmerende Bevattende Der Selver Opkomste En Voortgang, Manuscript, Part 1 (Purmerend, 1766), Noord Hollands Archief Haarlem, 143 Collectie van Louwen, A. Pietersz., inv. nr. 18. (495 pages). 
+And 
+Part 2, Volume 1 (Purmerend, 1774), Noord Hollands Archief Haarlem, 143 Collectie van Louwen, A. Pietersz., inv. nr. 19. (288 pages)
+N.B. Part 2 volume 1 of the chronicle is of a hybrid character: part of it describes contemporary events, notably the visit of Christan the Seventh, King of Danmark to Purmerend, but a large part is dedicated to the history of a mermaid that presumably was caught in the waters near Purmerend in the fifteenth century.
+
+===============================
+Chronicle Data Set 2 (Chr-2)
+===============================
+
+Text fragments from the second section of the chronicle manuscript which focuses on describing the contemporary social and political situation of Purmerend during which Louwen took on public roles in his hometown. Fragments are also classified into 'copy' or 'no-copy' depending on the inverted commas.
+
+This section of the chronicle consists of three volumes:
+Albert Pietersz. Louwen, Kronijk Der Stad Purmerende Bevattende Der Selver Opkomste En Voortgang, Manuscript, Part 2, Volume 2 (Purmerend, 1780), Noord Hollands Archief Haarlem, 143 Collectie van Louwen, A. Pietersz., inv. nr. 20. (320 pages) 
+Ibid., Part 3, Volume 1 (Purmerend, 1791), Noord Hollands Archief Haarlem, 143 Collectie van Louwen, A. Pietersz., inv. nr. 21. (225 pages) 
+Ibid., Part 3, Volume 2 (Purmerend, 1791), Noord Hollands Archief Haarlem, 143 Collectie van Louwen, A. Pietersz., inv. nr. 22. (168  pages) 
+
+
+===============================
+Historical Source Data Set (source-hist)
+===============================
+
+Samples of text from published sources explicitly mentioned by Louwen in the content of chronicle data set 1. This set is used as external data which is compared to the possible copied and paraphrased text in chronicle data set 1 to determine if the style of the chronicle fragments is similar to the sources which Louwen lists.
+We selected random samples of these texts and corrected the OCR manually where needed.
+
+Note: The selection below is not a complete list of all the books and other sources used by Louwen, but of the publications we used to create the corpus with samples
+
+Aitzema, Lieuwe van. Saken van staet en oorlogh, in, ende omtrent de Vereenigde Nederlanden. 6 vols. ’s-Gravenhage, 1669. http://resources.huygens.knaw.nl/retroboeken/aitzema/#page=0&accessor=toc&view=homePane.
+Aurelius, Cornelius. Die cronycke van Hollandt, Zeelandt ende Vrieslant, met die cronike der biscoppen van Uutrecht. Leiden: Jan Seversz, 1517. https://www.dbnl.org/tekst/aure001cron02_01/.
+Berkhey, Joannes Le Francq van. Natuurlyke historie van Holland. Vol. 1. 9 vols. Amsterdam: Yntema en Tieboel, 1769. https://www.dbnl.org/tekst/fran011natu00_01/.
+Berkum, Henricus van. Beschryving Der Stadt Schoonhoven, Bevattende in Zig Een Verhaal van Derzelver Grond, Waterstroomen, Bevolking, Benaming, Oudheyd, Vryeheeren, Handvesten, Privilegien, Voorregten, Keuren, Handel ... Alles Te Zamen Gestelt Uyt Oude Handschriften, Memorien, Brieven En Egte Stukken. Edited by Johannes Adrianus Block. Te Gouda: gedrukt by Gysbert en Willem de Vry, 1762. https://books.google.nl/books?id=ke5YAAAAcAAJ&printsec=frontcover&hl=nl&source=gbs_ViewAPI&redir_esc=y#v=onepage&q&f=false.
+Bor, Pieter Christiaanszoon. Oorsprongk, Begin, en Vervolgh der Nederlandsche Oorlogen, beroerten, en Borgerlyke Oneenigheden : beginnende met d’opdracht der selve Landen, gedaen by Keyser Karel den Vijfden, aen sijnen Soon Konink Philippus van Spanjen, en eindigende met het einde van ’t jaer M D C. t’Amsterdam : By de weduwe van Joannes van Someren, Abraham Wolfgangh, Hendrick en Dirck Boom, 1679. http://archive.org/details/oorsprongkbegine01borp.
+Boxhornius, Marcus Zuerius. Tonneel, Ofte Beschrijvinghe Des Landts, Ende Steden van Hollandt Ende West-Vrieslandt. Edited by Marcus Zuerius van Boxhorn and Gerardus Bardeloos. Amstelodamum: Hondius (Henricus), 1634.
+Brandt, Geeraerdt. G. Brandts Historie Der Reformatie, En Andere Kerkelyke Geschiedenissen, in En Ontrent de Nederlanden. 4 vols. Amsterdam: Jan Rieuwertsz., Hendrik en Dirk Boom, 1674.
+———. Historie Der Vermaerde Zee- En Koop-Stadt Enkhuisen, Vervaetende Haere Herkomste En Voortgangh : Mitsgaders Verscheide Gedenkwaerdige Geschiedenissen, Aldaer Voorgevallen. Enkhuizen: Egbert van den Hoof, 1666.
+Bruin, Claas. Cl. Bruins Noordhollandsche Arkadia; Edited by Gerrit Schoemaker. T’Amsteldam,: by Evert Visscher ..., 1732. https://books.google.nl/books?id=LuZWAAAAcAAJ&printsec=frontcover&hl=nl&source=gbs_ViewAPI&redir_esc=y#v=onepage&q&f=false.
+Buys, Egbert. Nieuw en volkomen woordenboek van konsten en weetenschappen. Vol. 1. 10 vols. Amsterdam: S. F. Baalde, boekverkoper., 1769. https://www.dbnl.org/tekst/buys003nieu01_01/.
+Cau, Cornelis. Groot placaet-boeck, vervattende de placaten, ordonnantien ende edicten van de ... Staten Generael der Vereenighde Nederlanden, ende van de ... Staten van Hollandt en West-Vrieslandt, mitsgaders vande ... Staten van Zeelandt ... By de weduwe, ende erfgenamen van wylen Hillebrandt Iacobsz van Wouw, 1683. https://books.google.nl/books?id=3MPO7v1dw2gC&printsec=frontcover&dq=3MPO7v1dw2gC&hl=nl&sa=X&ved=2ahUKEwjkxabb5qjwAhVKDOwKHaVtAvYQ6AEwAHoECAAQAg#v=onepage&q&f=false.
+———. Groot placaet-boeck, vervattende de placaten, ordonnantien ende edicten van de ... Staten Generael der Vereenighde Nederlanden, ende van de ... Staten van Hollandt en West-Vrieslandt, mitsgaders vande ... Staten van Zeelandt ... By de weduwe, ende erfgenamen van wylen Hillebrandt Iacobsz van Wouw, 1770. https://books.googleusercontent.com/books/content?req=AKW5QaeOchV_n2sAwLjm65QN_W22WCzVQQir7pI8b20xpZp4c0iVlvX4nNXkWUDYNUrA7J8TMYPCzOx3L7Msxbp71s9CpD54EV4viHbnhlz-tbYOtoxyYoyntQRcLMK-wFZNc9i1XyRJ6UQQN4oVjoKJAyEv-SZCIqXh_zsKNBoIQiid-Kqa8znDxs-gbJb5WzoMu_HEw7N3l01auFLMOnvB-4GoEhOdYvlxhOq6unwEzAynqW9c2vQ3ZyhBP1sdemv912Q9pktzsh0vAqCyIJF0FEz-ew-Q2OK9b023EufhgJjI7mWAIZE.
+Centen, Sebastiaan. Vervolg Der Historie van de Vermaarde Zee- En Koop-Stad Enkhuizen, Behelzende Verscheide Gedenkwaardige Geschiedenissen, Die Zo in Als Omtrent Dezelve, En Door Geheel Westvriesland En Het Noorderquartier Gebeurt Zyn. Te Hoorn: by Jacob Duyn, 1747. https://books.google.nl/books?id=95F7gD3zQuUC&printsec=frontcover&hl=nl&source=gbs_ViewAPI&redir_esc=y#v=onepage&q&f=false.
+Chomel, Noel. Huishoudelyk Woordboek. Vervattende Vele Middelen Om Zyn Goed Te Vermeerderen, En Zyne Gezondheid Te Behouden, Met Verscheiden Wisse En Beproefde Middelen. Edited by Jan Lodewyk Schuer and Arnold Heinrich Westerhoff. 2 vols. Leiden: by S. Luchtmans, en te Amsterdam by H. Uytwerf, 1743. https://www.dbnl.org/zoeken/zoekeninteksten/index.php?zoek=chomel&prefilter=.
+Commelin, Casparus. Beschryvinge van Amsterdam, Desselfs Eerste Oorspronk Uyt Den Huyse Der Heeren van Aemstel En Aemstellant Met Een Verhaal van Haar Leven En Dappere Krĳgsdaden. Amsterdam: Abraham Wolfgang, Janssoons van Waesberge, Hendrick Boom, Joannes van Someren (wed.) & Rembertus Goethals, 1693. https://books.google.nl/books?id=5FRDAAAAcAAJ&printsec=frontcover&dq=commelin&hl=nl&sa=X&redir_esc=y#v=onepage&q=commelin&f=false.
+Gouthoeven, Wouter van, Ellert de Veer pseud van Paulus van Asperen, and Nicolaes de Clerck, eds. D’oude Chronijcke Ende Historien van Holland (Met West-Vriesland) van Zeeland Ende van Utrecht. Tot Dordrecht.: Ghedruckt by Peeter Verhaghen, 1620. https://books.google.nl/books?id=GONLAAAAcAAJ&printsec=frontcover&hl=nl&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false.
+Guicciardini, Lodovico. Beschryvinghe van Alle de Neder-Landen, Anderssins Ghenoemt Neder-Dvytslandt,. Edited by Cornelis Kiel and Petrus Montanus. Amsterdam,: Willem Jansz, 1612.
+Halma, Francois, and Matthaeus Brouerius van NIdek. Tooneel der Vereenigde Nederlanden en onderhorige landschappen, geopent in een algemeen historisch, genealogisch, geographisch en staatkundig woordenboek. Vol. 2. 2 vols. Leeuwarden: Hendrik Halma, 1725. https://books.google.nl/books?id=gIdMAAAAcAAJ&pg=PP11&hl=nl&source=gbs_selected_pages&cad=2#v=onepage&q&f=false.
+Heemskerk, Johan van. Batavische Arcadia, waer in: onder ’t loofwerck van liefkooserye, gehandelt werdt, van den oorspronck van ’t Oudt Batavien, vryheydt der voorige en volgende Bataviers ... by Adr. Wor en de erve G. onder de Linden, 1729.
+Heemskerk, Johan van, and Caspar Barlaeus, eds. Batavische Arcadia Waer in, Onder ’t Loof-Werck van Liefkooserytjes, Gehandelt Werdt, van Den Oorspronck van ’t Oud Batavien, Vryheydt Der Bataviers, Vrye Zee, Zee-Vonden, Vinders van Verburgen Schatten, Verbeurt-Maecken van Goederen, Vytperssen Der Waerheydt Door Pijnigen, Onheid van de Lanckweyligheydt Der Rechtsplegingen. t’ Amsterdam: voor Gerrit Jansz.#boeck-verkooper#, 1647.
+Heussen, Hugo Franciscus van. Oudheden En Gestichten van Zeeland, Behelzende de Oudheden ... En Benaamingen van de Eylanden Onder Zeeland Behoorende, En van de Steden En Dorpen in Die Eylanden Gelegen; Beneffens de Stichtingen Der Geestelijke Gebouwen ... de Kerk- En Klooster-Oversten, Geleerde Mannen Enz. Edited by Hendrik van Rijn. Te Utrecht,: by Hermannus Besseling, 1744.
+Hoefnagel, Nicolaas. Het Juichend Noord-Holland, of Verhaal van de Reize van Willem Den Vyfden Den 21. En 22. July 1773., 1773.
+Hooft, Pieter Corneliszoon. Nederlandsche Historien. 4th ed. 2 vols. Amsterdam/Leiden/Utrecht: msterdam, H. Wetstein and P. Scepérus, Leiden, D. van den Dalen, Utrecht, W. van de Water, 1703. https://www.dbnl.org/tekst/hoof001nede01_01/index.php
+Kruijthoff, Willem Abraham Tielenius, and Jan Leoninus. Geschiedverhaal van de vuur en watersnood de stad Edam meermaals, dog byzonder op den 24 febr. 1602, en den 5 maart 1699 overgekomen ... Edam: Hendrik Rolff in de Kleine Kerkstraat, 1781. https://www.delpher.nl/nl/boeken/view?identifier=dpo:10066:mpeg21:0061.
+Orlers, Jan Jansz. Beschrĳvinge Der Stad Leyden. Inhoudende ’t Begin, Den Voortgang, Ende Den Wasdom Der Selver: De Stichtinghe van de Kercken, Cloosteren, Gasthuysen, Ende Andere Publĳcque Gestichten, &c. Desgelĳcx de Oprechtinghe van de Academie, Ende Collegien Theol. Mitsgaders Verhael van Alle de Belegeringen, Ende Aenslagen, Die de Selve Stad Zedert Den Iare 1203 Geleden Heeft ... Verciert Met Verscheyden Caerten Ende Figuren. Met Groote Moeĳten, Uyt Verscheyden Schriften Ende Papieren by Een Vergadert, Ende Beschreven. Leiden, 1614. https://books.google.nl/books?pg=PA4&id=MhzuF74Go3cC&hl=nl#v=onepage&q&f=false.
+Santacilia, Jorge Juan y. Historische reisbeschrijving van geheel Zuid-America: gedaan op bevel des Konings van Spanje. by Jacobus Huysman, Goes 1772.
+Schoorel, Dirk Burger van. Chronyk van de Stad Medenblik En Deszelfs Eerste Begin, Opkomst, En Florizante Staat......: Midsgaders Nog Een Netter Beschrijving Als Voor Dezen,Weg Verscheiden Aanmerkwaardige Geschiedenisse ... t’Amsterdam: By Timotheus ten Hoorn, 1710. https://books.google.nl/books?id=8A9cAAAAcAAJ&printsec=frontcover&hl=nl&source=gbs_ViewAPI&redir_esc=y#v=onepage&q&f=false.
+Smids, Ludolf. ed. Schatkamer Der Nederlandsse Oudheden, of Woordenboek Behelsende Nederlands Steden En Dorpen, Kasteelen, Sloten En Heeren Huysen, Oude Volkeren, Rievieren, Vermaarde Luyden in Staat En Oorlogh, Oudheden, Gewoontens En Lands Wysen. Haarlem: Marshoorn, 1737. https://books.google.nl/books?id=cfBWAAAAcAAJ&printsec=frontcover&dq=inauthor:%22Ludolph+Smids%22&hl=nl&sa=X&redir_esc=y#v=onepage&q&f=false.
+Soeteboom, Hendrik Jacobsz. De Zaanlants Arkadia., 1658. https://books.google.be/books?id=cFdbAAAAQAAJ&printsec=frontcover&hl=nl&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false.
+———. De zoet stemmende zwaane van Waterland. S.I. : s.n., 1702. https://books.google.nl/books?vid=KBNL:KBNL03000203290&redir_esc=y.
+———. Korte kronyck van Purmerende, Neck, Purmerlandt en Ilpendam, etc. Alsmede desselve vrijheden en heerlijckheden daar onder sorteerende; mitsgaders van ’t Zee-wijf in de Purmer-Ye. Purmerend: Pieter Baars, 1697. https://books.google.nl/books?id=ia6sw2r9unAC&printsec=frontcover&source=gbs_atb&redir_esc=y#v=onepage&q&f=false.
+Staatkundige Historie van Holland, Behelzende Eene Staatkundige Bespiegeling van de Voornaamste Gevallen Der Nederlandsche Geschiedenissen,. Vermeerderd Met Eenige Aanmerkingen over de Vaderlandsche Historie. 82 vols. Te Amsterdam: by Bernardus Mourik, 1756.
+Tafereel van natuur en konst; behelzende, by eene algemeene landbeschryving en beknopte historie der verscheiden volken, alle de voornaamste byzonderheden die in de bekende waereld voorkomen. Vol. 13. 21 vols. Pieter Meyer, Amsterdam (Dam), 1769. https://www.delpher.nl/nl/boeken/view?coll=boeken&page=2&identifier=dpo:11840:mpeg21:0068&cql%5B%5D=%28title+exact+%22Tafereel+van+natuur+en+konst%3B+behelzende%2C+by+eene+algemeene+landbeschryving+en+beknopte+historie+der+verscheiden+volken%2C+alle+de+voornaamste+byzonderheden+die+in+de+bekende+waereld+%5B...%5D+voorkomen%22%29.
+Valentyn, François. Oud en nieuw Oost-Indiën, vervattende een naaukeurige en uitvoerige verhandelinge van Nederlands mogentheyd in die gewesten. 5 vols. Dordrecht: Joannes van Braam, Amsterdam: Gerard onder de Linden, 1724. https://books.google.nl/books?pg=PA1&dq=Valentyn:+Oud+en+nieuw+Oost-Indiën,+vervattende+een+naaukeurige+en+uitvoerige+verhandelinge+van+Nederlands+mogentheyd+in+die+gewesten.&id=b_lGAAAAcAAJ&hl=nl#v=onepage&q=Valentyn%3A%20Oud%20en%20nieuw%20Oost-Indiën%2C%20vervattende%20een%20naaukeurige%20en%20uitvoerige%20verhandelinge%20van%20Nederlands%20mogentheyd%20in%20die%20gewesten.&f=false.
+Velius, Dirk. Chronyk van Hoorn: Daar in Het Begin, Aanwasch En Tegenwoordige Staat Dier Stad Verhaalt Worden, Als Mede de Gedenkwaardige Geschiedenissen ... Tot Het Jaar 1630. Edited by Sebastiaan Centen. Te Hoorn: by Jacob Duyn, 1740. https://books.google.nl/books?id=SmBAAAAAcAAJ&printsec=frontcover&hl=nl&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false.
+Viverius, Jacobus, and Jan Zoet. Wintersche Avonden, of Nederlandsche Vertellingen ... Utrecht: Koninklijke Bibliotheek, 1650. https://books.google.nl/books?id=gVJkAAAAcAAJ&printsec=frontcover&hl=nl&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false.
+Vondel, Joost van den. Inwydinge van ’t Stadthuis t’Amsterdam. Amsterdam: Thomas Fontein, voor de wed. van Abraham de Wees, 1655. https://books.google.nl/books?id=80loAAAAcAAJ&printsec=frontcover&hl=nl&source=gbs_ViewAPI&redir_esc=y#v=onepage&q&f=false.
+Wagenaar, Jan. Hedendaegsche historie, of tegenwoordige staet van alle volkeren; in opzigte hunner landsgelegenheit, personen, klederen, gebouwen, zeden, wetten, gewoontens, godsdienst, regering, konsten en wetenschappen, koophandel, handwerken, landbouw, landziektens, planten, dieren, mineralen en andere zaken tot de natuurlyke historie dienende: Vervolgende de beschryvinge der Vereenigde Nederlanden, en wel in ’t byzonder van Holland. by Isaak Tirion, 1740.
+
+===========================================
+Contemporary Source Data Set (source-cont)
+===========================================
+
+Samples from contemporary publications mentioned by Louwen in the content of chronicle data set 2. This set is used as external data to compare to the possible copied and paraphrased text in chronicle data set 2 to determine if the style of the chronicle fragments is similar to the sources which Louwen lists.
+
+While the sources mentioned by Louwen in the first ‘historical’ section of his chronicle are mostly books, this set is compiled of mixed media including both books, periodicals, newspapers, and the publications of local authorities. 
+
+Aanspraak Aan Het Exercitie-Genootschap Pro Patria et Libertate Te Purmerende. Naa Deszelfs Tweede Openlyke Exercitie Op Den 12 July Ao. 1786, 1786.
+Berigt wegens de receptie, en kort verblyf, van Syn Doorlugtige Hoogheid Willem den Vyfde. P. Jordaan, 1773.
+Berkhey, Joannes Le Francq van. Natuurlyke historie van Holland. Vol. 1. 9 vols. Amsterdam: Yntema en Tieboel, 1769. https://www.dbnl.org/tekst/fran011natu00_01/.
+Chalmot, Jacques Alexandre de. Register Der Resolutien En Placaaten van de Heeren Staaten van Friesland.: 2 Parts. Campen: J.A. de Chalmot, 1784. https://www.delpher.nl/nl/boeken/view?coll=boeken&identifier=dpo:5094:mpeg21.
+De nieuwe kaasmarkt, binnen de stad Medenblik: begonnen den 5 july, anno 1775. Medenblik: Jan Masareeuw en Claas Cos, 1775.
+Eenige aantekeningen van de eere-poorten opgeregt binnen Purmerende den 21 july 1773. by gelegenheid van de heuchelyke tegenwoordigheid van [...] Willem de Vyfde, 1773.
+Aanspraak aan het exercitie-genootschap Pro patria et libertate te Purmerende. Naa deszelfs tweede openlyke exercitie [...] op den 12 july a{o.} 1786’. Accessed 6 June 2021. https://www.delpher.nl/nl/boeken/view?coll=boeken&identifier=dpo:5959:mpeg21:0003.
+Extract uit het register der resolutien van de [...] Staaten van Holland en Westvriesland genoomen op den 4 november 1788’. Accessed 21 June 2021. https://www.delpher.nl/nl/boeken/view?coll=boeken&identifier=dpo:6251:mpeg21:0001.
+Het boek der psalmen, nevens de gezangen bij de hervormde kerk van Nederland in gebruik, 1775. https://www.dbnl.org/tekst/_boe008boek01_01/.
+Kort verhaal van weetenswaardige zaaken, betreffende de Gasthuiskerk te Amsterdam. Amsterdam: Dirk Schuurman, 1791.
+Martinet, J. F. Katechismus der natuur: Dl. 2. Amsterdam: by Johannes Allart, 1778.
+Nieuw Evangelisch Magazijn; of Mengelstoffen Ter Bevoordering van Kennis En Beoefening Der Godlijke Waarheden, 1781.
+Nieuwentijt, Bernard. Het Regt Gebruik Der Werelt Beschouwingen, Ter Overtuiginge van Ongodisten En Ongelovigen Aangetoont., 1715. https://www.dbnl.org/tekst/nieu030regt01_01/.
+Omstandig relaas, der blyde aankomst van [...] Willem de Vyfde [...] binnen de stadt Monnickendam, op den 21 july des jaars 1773. P. Jordaan, 1773.
+Requeste van burgemeesteren en vroedschappen der stad Purmerende tot herstel der magistraats bestelling op den voet van het laatst octroy van 23 april 1710; en om provisioneele voorsiening .... 18 maart 1784. uitgever niet vastgesteld, 1784.
+Requeste van Burgemeesteren En Vroedschappen Der Stad Purmerende Tot Herstel Der Magistraats Bestelling Op Den Voet van Het Laatst Octroy van 23 April 1710; En Om Provisioneele Voorsiening. 18 Maart 1784, 1784.
+‘Statenvertaling (1637) - BijbelsDigitaal.Nl - Nederlands-Vlaams Bijbelgenootschap’. Accessed 24 May 2021. https://www.bijbelsdigitaal.nl/statenvertaling-1637/.
+Vaderlandsche Gezangen, Ter Eere van’t Loflyk Exercitie-Genootschap Te Purmerende, 1785.
+
+===============================
+Author Data Set (author-intros)
+===============================
+
+Samples of Louwen's writing taken from two other manuscripts by this author. This set is used as external data which is compared to the possible non-copied text in both the chronicle data sets to determine if the style of  the chronicle fragments is similar to the examples of Louwen's writing style from outside of the chronicle manuscript.
+
+Louwen never published his work. It is unclear whether he intended some of his writings for publication. In any case the Noord-Hollands Archive in Haarlem preserves many more manuscripts by Louwen including 1: Three volumes describing the ‘Religions, Government and Armed Forces of the United provinces of the Netherland, especially of the province of Holland’; 2 ‘Political notes concerning Purmerend’ 1 volume; 3: ‘Narrative of Political and Military Histories of the Netherlands Happened in the Years 1783-1788’ 12 volumes (!) and 4: Poetry On the condition of the Netherlands in the Years 1784, 1785, 1786. (See: https://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&mizig=210&miadt=236&micode=143&milang=nl&mizk_alle=louwen&miview=inv2)
+
+The two samples are the prefaces by the author to: 
+
+Albert Pietersz. Louwen, Beschrijvinge van de Godsdiensten, Regering En Krijgsmacht Der Vereenigde Nederlanden En de Provincie van Holland in ’t Bijsonder (1760), Noord Hollands Archief Haarlem, 143 Collectie van Louwen, A. Pietersz., inv. nr. 1-3.
+And 
+Albert Pietersz. Louwen, 5-17 ‘Verzaemelingen van Politieke En Militaire Vaederlandsche Geschiedenissen Voorgevallen in de Jaren 1783-1788’, (1788), Noord Hollands Archief Haarlem, 143 Collectie van Louwen, A. Pietersz., inv. nr. 5-17.
+
